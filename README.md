@@ -3,6 +3,9 @@
 ![Initial view]
 (http://i65.tinypic.com/majvpv.png)
 
+![Details view]
+(http://i67.tinypic.com/seorpu.png)
+
 ## Description
 
 The app allows you to keep track of your daily tasks. (Of course it is a kind of educational project)
