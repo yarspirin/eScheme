@@ -1,12 +1,15 @@
 # eScheme
 
+![Initial view]
+(http://i67.tinypic.com/xdbdbc.png)
+
 ## Description
 
-The app allows you to keep track of your daily tasks. (of course it is a kind of educational project)
+The app allows you to keep track of your daily tasks. (Of course it is a kind of educational project)
 
 ## Security
 
-The information you are provided is handled by modern built-in database. (It uses Core Data framework.)
+The information you are provided is handled by modern built-in database. (It uses Core Data framework)
 
 ## Technology
 
