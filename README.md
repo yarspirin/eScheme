@@ -1,7 +1,7 @@
 # eScheme
 
 ![Initial view]
-(background.png)
+(http://i65.tinypic.com/majvpv.png)
 ![Details view]
 (http://i67.tinypic.com/seorpu.png)
 ![List view]
