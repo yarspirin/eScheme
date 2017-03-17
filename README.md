@@ -1,11 +1,8 @@
 # eScheme
 
-![Initial view]
-(http://i65.tinypic.com/majvpv.png)
-![Details view]
-(http://i67.tinypic.com/seorpu.png)
-![List view]
-(http://oi64.tinypic.com/29uofoj.jpg)
+![Initial view](http://i65.tinypic.com/majvpv.png)
+![Details view](http://i67.tinypic.com/seorpu.png)
+![List view](http://oi64.tinypic.com/29uofoj.jpg)
 
 ## Description
 
